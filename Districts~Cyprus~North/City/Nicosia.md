@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::33.46667] 
-[geo-lat::35.13334] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::33.46667] 
+[has_place_latitude::35.13334] 
 [name::Nicosia] 
 State ::  
 Country :: [[../../../../Cyprus]]  
