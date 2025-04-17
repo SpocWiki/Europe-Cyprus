@@ -25,47 +25,47 @@ layout:
 publishDate: 
 expiryDate: 
 has_id_wikidata: Q23681
-flag: "[[_Standards/WikiData/WD~flag of Northern Cyprus,207518]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Northern_Cyprus,207518]]"
 member_of:
-- "[[_Standards/WikiData/WD~Economic Cooperation Organization,225950]]"
-- "[[_Standards/WikiData/WD~Organization of Turkic States,596850]]"
-- "[[_Standards/WikiData/WD~International Organization of Turkic Culture,1993710]]"
-- "[[_Standards/WikiData/WD~Organisation of Islamic Cooperation,47543]]"
-anthem: "[[_Standards/WikiData/WD~İstiklâl Marşı,344452]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Northern Cyprus,498891]]"
+- "[[_Standards/WikiData/WD~Economic_Cooperation_Organization,225950]]"
+- "[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850]]"
+- "[[_Standards/WikiData/WD~International_Organization_of_Turkic_Culture,1993710]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+anthem: "[[_Standards/WikiData/WD~İstiklâl_Marşı,344452]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Northern_Cyprus,498891]]"
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Cyprus,644636]]'
-replaces: "[[_Standards/WikiData/WD~Turkish Federated State of Cyprus,784851]]"
-legislative_body: "[[_Standards/WikiData/WD~Assembly of the Republic,1515950]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Northern Cyprus,2354210]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Northern Cyprus,2662165]]"
-capital: "[[_Standards/WikiData/WD~North Nicosia,2762100]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Northern Cyprus,5333736]]"
-head_of_state: "[[_Standards/WikiData/WD~Ersin Tatar,6057339]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Northern Cyprus,7112394]]"
+replaces: "[[_Standards/WikiData/WD~Turkish_Federated_State_of_Cyprus,784851]]"
+legislative_body: "[[_Standards/WikiData/WD~Assembly_of_the_Republic,1515950]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Northern_Cyprus,2354210]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Northern_Cyprus,2662165]]"
+capital: "[[_Standards/WikiData/WD~North_Nicosia,2762100]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Northern_Cyprus,5333736]]"
+head_of_state: "[[_Standards/WikiData/WD~Ersin_Tatar,6057339]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Northern_Cyprus,7112394]]"
 instance_of:
-- "[[_Standards/WikiData/WD~state with limited recognition,10711424]]"
-- "[[_Standards/WikiData/WD~disputed territory,15239622]]"
-head_of_government: "[[_Standards/WikiData/WD~Ünal Üstel,12812869]]"
+- "[[_Standards/WikiData/WD~state_with_limited_recognition,10711424]]"
+- "[[_Standards/WikiData/WD~disputed_territory,15239622]]"
+head_of_government: "[[_Standards/WikiData/WD~Ünal_Üstel,12812869]]"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-culture: "[[_Standards/WikiData/WD~culture of Northern Cyprus,19903003]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Turkish Republic of Northern Cyprus,25336683]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Northern_Cyprus,19903003]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Turkish_Republic_of_Northern_Cyprus,25336683]]"
 official_language: '[[_Standards/WikiData/WD~Turkish,256]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Kuwait,817]]'
-- "[[_Standards/WikiData/WD~The Gambia,1005]]"
+- "[[_Standards/WikiData/WD~The_Gambia,1005]]"
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Turkey,43]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-country: "[[_Standards/WikiData/WD~Northern Cyprus,23681]]"
+country: "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Turkey,43]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 continent:
 - '[[_Standards/WikiData/WD~Europe,46]]'
