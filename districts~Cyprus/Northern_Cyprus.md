@@ -121,15 +121,17 @@ markerFolder: ./Northern_Cyprus/
 
 ## Confidential Links & Embeds: 
 
-### [Northern_Cyprus.public](/_public/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.public.md) 
+### [Northern_Cyprus](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.md) 
 
-### [Northern_Cyprus.internal](/_internal/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.internal.md) 
+### [Northern_Cyprus.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.public.md) 
 
-### [Northern_Cyprus.protect](/_protect/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.protect.md) 
+### [Northern_Cyprus.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.internal.md) 
 
-### [Northern_Cyprus.private](/_private/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.private.md) 
+### [Northern_Cyprus.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.protect.md) 
 
-### [Northern_Cyprus.personal](/_personal/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.personal.md) 
+### [Northern_Cyprus.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.private.md) 
 
-### [Northern_Cyprus.secret](/_secret/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.secret.md)
+### [Northern_Cyprus.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.personal.md) 
+
+### [Northern_Cyprus.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.secret.md)
 

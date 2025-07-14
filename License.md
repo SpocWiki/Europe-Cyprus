@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~South\CyprusLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~South\CyprusLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~South\CyprusLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~South\CyprusLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~South\CyprusLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~South\CyprusLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/License.secret.md)
 

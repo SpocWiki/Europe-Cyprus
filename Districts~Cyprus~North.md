@@ -41,15 +41,17 @@ Continent :: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### [Districts~Cyprus~North.public](/_public/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.public.md) 
+### [Districts~Cyprus~North](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North.md) 
 
-### [Districts~Cyprus~North.internal](/_internal/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.internal.md) 
+### [Districts~Cyprus~North.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North.public.md) 
 
-### [Districts~Cyprus~North.protect](/_protect/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.protect.md) 
+### [Districts~Cyprus~North.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North.internal.md) 
 
-### [Districts~Cyprus~North.private](/_private/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.private.md) 
+### [Districts~Cyprus~North.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North.protect.md) 
 
-### [Districts~Cyprus~North.personal](/_personal/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.personal.md) 
+### [Districts~Cyprus~North.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North.private.md) 
 
-### [Districts~Cyprus~North.secret](/_secret/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.secret.md)
+### [Districts~Cyprus~North.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North.personal.md) 
+
+### [Districts~Cyprus~North.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North.secret.md)
 

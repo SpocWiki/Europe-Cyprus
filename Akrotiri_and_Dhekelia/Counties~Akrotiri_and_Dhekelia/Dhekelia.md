@@ -41,15 +41,17 @@ markerFolder: ./Dhekelia/
 
 ## Confidential Links & Embeds: 
 
-### [Dhekelia.public](/_public/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaDhekelia.public.md) 
+### [Dhekelia](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.md) 
 
-### [Dhekelia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaDhekelia.internal.md) 
+### [Dhekelia.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.public.md) 
 
-### [Dhekelia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaDhekelia.protect.md) 
+### [Dhekelia.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.internal.md) 
 
-### [Dhekelia.private](/_private/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaDhekelia.private.md) 
+### [Dhekelia.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.protect.md) 
 
-### [Dhekelia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaDhekelia.personal.md) 
+### [Dhekelia.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.private.md) 
 
-### [Dhekelia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaDhekelia.secret.md)
+### [Dhekelia.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.personal.md) 
+
+### [Dhekelia.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Paphos/
 
 ## Confidential Links & Embeds: 
 
-### [Paphos.public](/_public/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusPaphos.public.md) 
+### [Paphos](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Paphos.md) 
 
-### [Paphos.internal](/_internal/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusPaphos.internal.md) 
+### [Paphos.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Paphos.public.md) 
 
-### [Paphos.protect](/_protect/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusPaphos.protect.md) 
+### [Paphos.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Paphos.internal.md) 
 
-### [Paphos.private](/_private/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusPaphos.private.md) 
+### [Paphos.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Paphos.protect.md) 
 
-### [Paphos.personal](/_personal/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusPaphos.personal.md) 
+### [Paphos.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Paphos.private.md) 
 
-### [Paphos.secret](/_secret/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusPaphos.secret.md)
+### [Paphos.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Paphos.personal.md) 
+
+### [Paphos.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Paphos.secret.md)
 

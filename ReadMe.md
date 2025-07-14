@@ -134,15 +134,17 @@ Capital :: [[districts~Cyprus/Nicosia]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\CyprusReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\CyprusReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\CyprusReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\CyprusReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\CyprusReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\CyprusReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.secret.md)
 

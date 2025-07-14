@@ -41,15 +41,17 @@ markerFolder: ./Larnaca/
 
 ## Confidential Links & Embeds: 
 
-### [Larnaca.public](/_public/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusLarnaca.public.md) 
+### [Larnaca](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Larnaca.md) 
 
-### [Larnaca.internal](/_internal/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusLarnaca.internal.md) 
+### [Larnaca.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Larnaca.public.md) 
 
-### [Larnaca.protect](/_protect/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusLarnaca.protect.md) 
+### [Larnaca.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Larnaca.internal.md) 
 
-### [Larnaca.private](/_private/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusLarnaca.private.md) 
+### [Larnaca.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Larnaca.protect.md) 
 
-### [Larnaca.personal](/_personal/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusLarnaca.personal.md) 
+### [Larnaca.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Larnaca.private.md) 
 
-### [Larnaca.secret](/_secret/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusLarnaca.secret.md)
+### [Larnaca.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Larnaca.personal.md) 
+
+### [Larnaca.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Larnaca.secret.md)
 
