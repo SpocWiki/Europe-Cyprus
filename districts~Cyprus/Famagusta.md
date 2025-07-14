@@ -40,11 +40,16 @@ markerFolder: ./Famagusta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta|Famagusta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.public|Famagusta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.internal|Famagusta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.protect|Famagusta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.private|Famagusta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.personal|Famagusta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.secret|Famagusta.secret]] 
+
+### [Famagusta.public](/_public/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusFamagusta.public.md) 
+
+### [Famagusta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusFamagusta.internal.md) 
+
+### [Famagusta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusFamagusta.protect.md) 
+
+### [Famagusta.private](/_private/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusFamagusta.private.md) 
+
+### [Famagusta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusFamagusta.personal.md) 
+
+### [Famagusta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusFamagusta.secret.md)
 

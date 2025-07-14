@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia|Nicosia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.public|Nicosia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.internal|Nicosia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.protect|Nicosia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.private|Nicosia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.personal|Nicosia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.secret|Nicosia.secret]] 
+
+### [Nicosia.public](/_public/\Earth\Continent\Europe\Europe~South\Cyprus\Districts~Cyprus~North\CityNicosia.public.md) 
+
+### [Nicosia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Cyprus\Districts~Cyprus~North\CityNicosia.internal.md) 
+
+### [Nicosia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Cyprus\Districts~Cyprus~North\CityNicosia.protect.md) 
+
+### [Nicosia.private](/_private/\Earth\Continent\Europe\Europe~South\Cyprus\Districts~Cyprus~North\CityNicosia.private.md) 
+
+### [Nicosia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Cyprus\Districts~Cyprus~North\CityNicosia.personal.md) 
+
+### [Nicosia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Cyprus\Districts~Cyprus~North\CityNicosia.secret.md)
+

@@ -39,12 +39,17 @@ Continent :: [[Europe]]
 [has_place_latitude::35.1833]
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus~North|Cyprus~North]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus~North.public|Cyprus~North.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus~North.internal|Cyprus~North.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus~North.protect|Cyprus~North.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus~North.private|Cyprus~North.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus~North.personal|Cyprus~North.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus~North.secret|Cyprus~North.secret]] 
+
+### [Districts~Cyprus~North.public](/_public/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.public.md) 
+
+### [Districts~Cyprus~North.internal](/_internal/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.internal.md) 
+
+### [Districts~Cyprus~North.protect](/_protect/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.protect.md) 
+
+### [Districts~Cyprus~North.private](/_private/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.private.md) 
+
+### [Districts~Cyprus~North.personal](/_personal/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.personal.md) 
+
+### [Districts~Cyprus~North.secret](/_secret/\Earth\Continent\Europe\Europe~South\CyprusDistricts~Cyprus~North.secret.md)
+

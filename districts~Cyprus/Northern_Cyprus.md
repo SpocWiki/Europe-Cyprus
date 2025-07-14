@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 35.3
 - 33.8
@@ -117,12 +117,19 @@ markerFolder: ./Northern_Cyprus/
 > Northern Cyprus is a semi-presidential, democratic republic with a cultural heritage incorporating various influences and an economy that is dominated by the services sector. The economy has seen growth through the 2000s and 2010s, with the GNP per capita more than tripling in the 2000s, but is held back by an international embargo due to the official closure of the ports in Northern Cyprus by the Republic of Cyprus. The official language is Turkish, with a distinct local dialect being spoken. The vast majority of the population consists of Sunni Muslims, while religious attitudes are mostly moderate and secular. Northern Cyprus is an observer state of ECO and OIC under the name "Turkish Cypriot State", PACE under the name "Turkish Cypriot Community", and Organization of Turkic States with its own name.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Northern%20Cyprus)
+
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus|Northern_Cyprus]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.public|Northern_Cyprus.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.internal|Northern_Cyprus.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.protect|Northern_Cyprus.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.private|Northern_Cyprus.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.personal|Northern_Cyprus.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.secret|Northern_Cyprus.secret]] 
+
+### [Northern_Cyprus.public](/_public/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.public.md) 
+
+### [Northern_Cyprus.internal](/_internal/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.internal.md) 
+
+### [Northern_Cyprus.protect](/_protect/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.protect.md) 
+
+### [Northern_Cyprus.private](/_private/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.private.md) 
+
+### [Northern_Cyprus.personal](/_personal/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.personal.md) 
+
+### [Northern_Cyprus.secret](/_secret/\Earth\Continent\Europe\Europe~South\Cyprus\districts~CyprusNorthern_Cyprus.secret.md)
 

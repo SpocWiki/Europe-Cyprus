@@ -40,11 +40,16 @@ markerFolder: ./Akrotiri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri|Akrotiri]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.public|Akrotiri.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.internal|Akrotiri.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.protect|Akrotiri.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.private|Akrotiri.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.personal|Akrotiri.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.secret|Akrotiri.secret]] 
+
+### [Akrotiri.public](/_public/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaAkrotiri.public.md) 
+
+### [Akrotiri.internal](/_internal/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaAkrotiri.internal.md) 
+
+### [Akrotiri.protect](/_protect/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaAkrotiri.protect.md) 
+
+### [Akrotiri.private](/_private/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaAkrotiri.private.md) 
+
+### [Akrotiri.personal](/_personal/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaAkrotiri.personal.md) 
+
+### [Akrotiri.secret](/_secret/\Earth\Continent\Europe\Europe~South\Cyprus\Akrotiri_and_Dhekelia\Counties~Akrotiri_and_DhekeliaAkrotiri.secret.md)
 

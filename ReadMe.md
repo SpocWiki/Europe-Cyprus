@@ -132,12 +132,17 @@ Capital :: [[districts~Cyprus/Nicosia]]
 [has_place_latitude::35.1333] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus|Cyprus]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus.public|Cyprus.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus.internal|Cyprus.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus.protect|Cyprus.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus.private|Cyprus.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus.personal|Cyprus.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus.secret|Cyprus.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\CyprusReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\CyprusReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\CyprusReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\CyprusReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\CyprusReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\CyprusReadMe.secret.md)
+
