@@ -1,37 +1,38 @@
 ---
 location:
-- 35.1333
-- 33.4667
+  - 35.1333
+  - 33.4667
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Cyprus
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Cyprus
-- Chipre
-- Chypre
-- قبرص
-- 塞浦路斯
-- Кипр
-- the Republic of Cyprus
-- la República de Chipre
+  - Cyprus
+  - Chipre
+  - Chypre
+  - قبرص
+  - 塞浦路斯
+  - Кипр
+  - the Republic of Cyprus
+  - la República de Chipre
 Languages:
-- el-CY
-- tr-CY
-- en
+  - el-CY
+  - tr-CY
+  - en
 ---
 
 
