@@ -99,7 +99,7 @@ coordinate_location: "Point(33.3634 35.1816)"
 ```leaflet
 id: Northern_Cyprus
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Northern_Cyprus/
 markerFolder: ./Northern_Cyprus/
