@@ -96,11 +96,18 @@ coordinate_location: "Point(33.3634 35.1816)"
 
 # [[Northern_Cyprus]] 
 
+#is_/same_as :: [[../../../../../../WikiData/WD~Northern_Cyprus,23681|WD~Northern_Cyprus,23681]] 
+
+## #has_/map  
+
 ```leaflet
 id: Northern_Cyprus
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
+defaultZoom: 2 
+coordinates: [[Northern_Cyprus]] 
+markerFile: [[Northern_Cyprus]] 
 geojsonFolder: ./Northern_Cyprus/
 markerFolder: ./Northern_Cyprus/
 ```
@@ -108,7 +115,18 @@ markerFolder: ./Northern_Cyprus/
 
 ## #has_/text_of_/abstract 
 
-> **Northern Cyprus**, officially the Turkish Republic of Northern Cyprus (TRNC), is a de facto state that comprises the northeastern portion of the island of Cyprus. It is recognised only by Turkey, and its territory is considered by all other states to be part of the Republic of Cyprus. Northern Cyprus extends from the tip of the Karpass Peninsula in the northeast to Morphou Bay, Cape Kormakitis and its westernmost point, the Kokkina exclave in the west. Its southernmost point is the village of Louroujina. A buffer zone under the control of the United Nations stretches between Northern Cyprus and the rest of the island and divides Nicosia, the island's largest city and capital of both sides.
+> **Northern Cyprus**, officially the Turkish Republic of Northern Cyprus (TRNC), 
+> is a de facto state that comprises the northeastern portion of the island of Cyprus. 
+> 
+> It is recognised only by Turkey, and its territory is considered by all other states 
+> to be part of the Republic of Cyprus. 
+> 
+> Northern Cyprus extends from the tip of the Karpass Peninsula in the northeast 
+> to Morphou Bay, Cape Kormakitis and its westernmost point, the Kokkina exclave in the west. 
+> Its southernmost point is the village of Louroujina. 
+> A buffer zone under the control of the United Nations 
+> stretches between Northern Cyprus and the rest of the island and divides Nicosia, 
+> the island's largest city and capital of both sides.
 >
 > A coup d'état in 1974, performed as part of an attempt to annex the island to Greece, prompted the Turkish invasion of Cyprus. This resulted in the eviction of much of the north's Greek Cypriot population, the flight of Turkish Cypriots from the south, and the partitioning of the island, leading to a unilateral declaration of independence by the north in 1983. Due to its lack of recognition, Northern Cyprus is heavily dependent on Turkey for economic, political and military support.
 >
