@@ -1,13 +1,15 @@
 ---
-location: [35.1833,33.3667]
+aliases:
+  - Districts~Cyprus~North
+location:
+  - 35.1833
+  - 33.3667
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 57606
 isDeleted: false
 confidential: public
-
 ---
 [ISO2::] 
 [ISO3::] 

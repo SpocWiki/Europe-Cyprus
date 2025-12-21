@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Cyprus
+  - Chipre
+  - Chypre
+  - قبرص
+  - 塞浦路斯
+  - Кипр
+  - the Republic of Cyprus
+  - la República de Chipre
+  - ReadMe
 location:
   - 35.1333
   - 33.4667
@@ -14,21 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Cyprus
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Cyprus
-  - Chipre
-  - Chypre
-  - قبرص
-  - 塞浦路斯
-  - Кипр
-  - the Republic of Cyprus
-  - la República de Chipre
+publishDate: ''
+expiryDate: ''
 Languages:
   - el-CY
   - tr-CY

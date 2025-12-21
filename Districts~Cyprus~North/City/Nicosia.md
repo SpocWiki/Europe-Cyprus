@@ -1,7 +1,8 @@
 ---
 aliases:
-  - Lefkosia 
+  - Lefkosia
   - Lefkoşa
+  - Nicosia
 has_id_wikidata: Q3856
 location:
   - 35.13334
