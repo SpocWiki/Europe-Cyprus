@@ -24,89 +24,153 @@ cssclasses:
   - Country
 publish: true
 title: Cyprus
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
   - el-CY
   - tr-CY
   - en
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: CYPRUS
+dv_Telephone: 357
+dv_Global: true
+dv_Global_Name: World
+dv_name: Cyprus
+dv_name-en:
+  - Cyprus
+  - Cyprus
+dv_name-es: Chipre
+dv_name-fr: Chypre
+dv_name-cn: 塞浦路斯
+dv_name-ar: قبرص
+dv_name-ru: Кипр
+dv_CLDR_display_name: Cyprus
+dv_UNTERM_English: Cyprus
+dv_UNTERM_English_Formal: the Republic of Cyprus
+dv_UNTERM_Spanish_Formal: la República de Chipre
+dv_UNTERM_Spanish: Chipre
+dv_UNTERM_French: Chypre [fém.]
+dv_UNTERM_Arabic: قبرص
+dv_UNTERM_Arabic_Formal: جمهورية قبرص
+dv_UNTERM_Chinese: 塞浦路斯
+dv_UNTERM_Chinese_Formal: 塞浦路斯共和国
+dv_UNTERM_French_Formal: la République de Chypre
+dv_UNTERM_Russian: Кипр
+dv_UNTERM_Russian_Formal: Республика Кипр
+dv_Region_Name: "[[../../../Asia]]"
+dv_Intermediate_Region_Name: "[[ReadMe]]"
+dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region: 142
+dv_Sub-region: 145
+dv_Geoname-ID: 146669
+dv_FIPS: CY
+dv_FIFA: CYP
+dv_IOC: CYP
+dv_MARC: cy
+dv_GAUL: 64
+dv_WMO: CY
+dv_ITU: CYP
+dv_DS: CY
+dv_TLD: .cy
+dv_EDGAR: G4
+dv_M49: 196
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 196
+dv_ISO2: CY
+dv_ISO3: CYP
+dv_name-de: Zypern
+dv_Area-Total: 9251
+dv_Area-Land: 9240
+dv_Continent: "[[../../../Europe]]"
+dv_VehicleCode: CY
+dv_Capital: "[[districts~Cyprus/Nicosia]]"
+dv_Alcohol-l: 9.3
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 33.4667
+dv_has_place_latitude: 35.1333
+dv_developed_developing_countries: Developed
 ---
 
 
-[	ISO4217-currency_alphabetic	 :: EUR ] 
-[	ISO4217-currency_name	 :: Euro ] 
-[	ISO4217-currency_numeric	 :: 978 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: CYPRUS ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 357 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Cyprus ] 
+name = `=this.dv_name` 
 [	name-en	 :: Cyprus ] 
-[	name-es	 :: Chipre ] 
-[	name-fr	 :: Chypre ] 
-[	name-cn	 :: 塞浦路斯 ] 
-[	name-ar	 :: قبرص ] 
-[	name-ru	 :: Кипр ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Cyprus ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Cyprus ] 
-[	UNTERM_English_Formal	 :: the Republic of Cyprus ] 
-[	UNTERM_Spanish_Formal	 :: la República de Chipre ] 
-[	UNTERM_Spanish	 :: Chipre ] 
-[	UNTERM_French	 :: Chypre [fém.] ] 
-[	UNTERM_Arabic	 :: قبرص ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية قبرص ] 
-[	UNTERM_Chinese	 :: 塞浦路斯 ] 
-[	UNTERM_Chinese_Formal	 :: 塞浦路斯共和国 ] 
-[	UNTERM_French_Formal	 :: la République de Chypre ] 
-[	UNTERM_Russian	 :: Кипр ] 
-[	UNTERM_Russian_Formal	 :: Республика Кипр ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Asia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 145 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 146669 ] 
-[	FIPS	 :: CY ] 
-[	FIFA	 :: CYP ] 
-[	IOC	 :: CYP ] 
-[	MARC	 :: cy ] 
-[	GAUL	 :: 64 ] 
-[	WMO	 :: CY ] 
-[	ITU	 :: CYP ] 
-[	DS	 :: CY ] 
-[	TLD	 :: .cy ] 
-[	EDGAR	 :: G4 ] 
-[	M49	 :: 196 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developed ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 196 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
 
 
 SpocWebEntityId: 4948
 isDeleted: false
 confidential: public
-[ISO2::CY] 
-[ISO3::CYP] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 ```leaflet
 id: Cyprus
@@ -118,35 +182,35 @@ markerFolder: .//
 ```
 
 [name-en::Cyprus] 
-[name-de::Zypern] 
+name-de = `=this.dv_name-de` 
 ![[Flag_of_Cyprus.svg|350]] 
 
-[Area-Total::9251] 
-[Area-Land::9240] 
-Continent :: [[Europe]]  
-[VehicleCode::CY] 
-Capital :: [[districts~Cyprus/Nicosia]]  
-[Alcohol-l::9.3] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l` 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::33.4667] 
-[has_place_latitude::35.1333] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Cyprus/ReadMe.secret|ReadMe.secret]] 
 

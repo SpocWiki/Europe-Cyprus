@@ -40,17 +40,17 @@ markerFolder: ./Dhekelia/
 
 ## Confidential Links & Embeds: 
 
-### [Dhekelia](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia|Dhekelia]] 
 
-### [Dhekelia.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.public|Dhekelia.public]] 
 
-### [Dhekelia.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.internal|Dhekelia.internal]] 
 
-### [Dhekelia.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.protect|Dhekelia.protect]] 
 
-### [Dhekelia.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.private|Dhekelia.private]] 
 
-### [Dhekelia.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.personal|Dhekelia.personal]] 
 
-### [Dhekelia.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties~Akrotiri_and_Dhekelia/Dhekelia.secret|Dhekelia.secret]] 
 

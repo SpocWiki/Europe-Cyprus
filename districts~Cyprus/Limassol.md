@@ -40,17 +40,17 @@ markerFolder: ./Limassol/
 
 ## Confidential Links & Embeds: 
 
-### [Limassol](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol|Limassol]] 
 
-### [Limassol.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.public|Limassol.public]] 
 
-### [Limassol.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.internal|Limassol.internal]] 
 
-### [Limassol.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.protect|Limassol.protect]] 
 
-### [Limassol.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.private|Limassol.private]] 
 
-### [Limassol.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.personal|Limassol.personal]] 
 
-### [Limassol.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Limassol.secret|Limassol.secret]] 
 

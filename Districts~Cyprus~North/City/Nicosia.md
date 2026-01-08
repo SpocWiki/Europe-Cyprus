@@ -17,22 +17,31 @@ tags:
 SpocWebEntityId: 35920
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 33.46667
+dv_has_place_latitude: 35.13334
+dv_name: Nicosia
+dv_Country: "[[../../../../Cyprus]]"
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Nicosia,3856|WD~Nicosia,3856]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Nicosia,3856|WD~Nicosia,3856]]"
 ---
 
 # [[Nicosia]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::33.46667] 
-[has_place_latitude::35.13334] 
-[name::Nicosia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Cyprus]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Nicosia,3856|WD~Nicosia,3856]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -78,17 +87,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nicosia](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia|Nicosia]] 
 
-### [Nicosia.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.public|Nicosia.public]] 
 
-### [Nicosia.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.internal|Nicosia.internal]] 
 
-### [Nicosia.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.protect|Nicosia.protect]] 
 
-### [Nicosia.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.private|Nicosia.private]] 
 
-### [Nicosia.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.personal|Nicosia.personal]] 
 
-### [Nicosia.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North/City/Nicosia.secret|Nicosia.secret]] 
 

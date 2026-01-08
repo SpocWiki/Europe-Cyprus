@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Northern_Cyprus,23681|WD~Northern_Cyprus,23681]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Northern_Cyprus,23681|WD~Northern_Cyprus,23681]]"
+
 has_time_started: 1983-01-01 
 aliases:
   - Northern_Cyprus
@@ -98,7 +102,7 @@ coordinate_location: Point(33.3634 35.1816)
 
 # [[Northern_Cyprus]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Northern_Cyprus,23681|WD~Northern_Cyprus,23681]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -141,17 +145,17 @@ markerFolder: ./Northern_Cyprus/
 
 ## Confidential Links & Embeds: 
 
-### [Northern_Cyprus](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus|Northern_Cyprus]] 
 
-### [Northern_Cyprus.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.public|Northern_Cyprus.public]] 
 
-### [Northern_Cyprus.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.internal|Northern_Cyprus.internal]] 
 
-### [Northern_Cyprus.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.protect|Northern_Cyprus.protect]] 
 
-### [Northern_Cyprus.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.private|Northern_Cyprus.private]] 
 
-### [Northern_Cyprus.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.personal|Northern_Cyprus.personal]] 
 
-### [Northern_Cyprus.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Northern_Cyprus.secret|Northern_Cyprus.secret]] 
 

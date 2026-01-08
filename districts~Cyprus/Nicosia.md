@@ -40,17 +40,17 @@ markerFolder: ./Nicosia/
 
 ## Confidential Links & Embeds: 
 
-### [Nicosia](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia|Nicosia]] 
 
-### [Nicosia.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.public|Nicosia.public]] 
 
-### [Nicosia.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.internal|Nicosia.internal]] 
 
-### [Nicosia.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.protect|Nicosia.protect]] 
 
-### [Nicosia.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.private|Nicosia.private]] 
 
-### [Nicosia.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.personal|Nicosia.personal]] 
 
-### [Nicosia.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Cyprus/districts~Cyprus/Nicosia.secret|Nicosia.secret]] 
 
