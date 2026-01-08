@@ -10,8 +10,8 @@ tags:
 SpocWebEntityId: 57606
 isDeleted: false
 confidential: public
-dv_name-en: Northern Cyprus
-dv_name-de: Nord Zypern
+dv_has_name_en: Northern Cyprus
+dv_has_name_de: Nord Zypern
 dv_Continent: "[[../../../Europe]]"
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: 33.3667
@@ -32,8 +32,8 @@ geojsonFolder: ./Cyprus/
 markerFolder: ./Cyprus/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 Continent = `=this.dv_Continent`
