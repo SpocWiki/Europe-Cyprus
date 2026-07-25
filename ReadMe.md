@@ -334,7 +334,7 @@ dv_UNTERM_Chinese_Formal: 塞浦路斯共和国
 dv_UNTERM_French_Formal: la République de Chypre
 dv_UNTERM_Russian: Кипр
 dv_UNTERM_Russian_Formal: Республика Кипр
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Cyprus]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -359,7 +359,7 @@ dv_ISO2: CY
 dv_ISO3: CYP
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Cyprus,229|WD~Cyprus,229]]'
+  - '[[../../../../../WikiData/WD~Cyprus,229|WD~Cyprus,229]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~South/Cyprus|Cyprus]]'
   - '[[/_public/Earth/Continent/Europe/Europe~South/Cyprus.public|Cyprus.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~South/Cyprus.internal|Cyprus.internal]]'
@@ -370,17 +370,17 @@ dv_is_:
 dv_has_name_de: Zypern
 dv_Area-Total: 9251
 dv_Area-Land: 9240
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: CY
-dv_Capital: '[[Cyprus/districts~Cyprus/Nicosia|Nicosia]]'
+dv_Capital: '[[districts~Cyprus/Nicosia|Nicosia]]'
 dv_Alcohol-l: 9.3
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 33.4667
 dv_has_place_latitude: 35.1333
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Cyprus
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Cyprus,229|WD~Cyprus,229]]'
+- '[[../../../../../WikiData/WD~Cyprus,229|WD~Cyprus,229]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~South/Cyprus|Cyprus]]'
 - '[[/_public/Earth/Continent/Europe/Europe~South/Cyprus.public|Cyprus.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~South/Cyprus.internal|Cyprus.internal]]'
@@ -584,7 +584,7 @@ member_of:
 - '[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
 - '[[/_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
 - '[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -970,7 +970,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Cyprus/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -991,7 +991,7 @@ defaultZoom: 7
 
 ```leaflet
 id: Cyprus_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
