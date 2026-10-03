@@ -63,3 +63,26 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North.secret|Districts~Cyprus~North.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Europe/Europe~South/Cyprus/Districts~Cyprus~North.md`
+
+```leaflet
+id: Northern Cyprus
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+geojsonFolder: ./Cyprus/
+markerFolder: ./Cyprus/
+```
+
+[name-en::Northern Cyprus]
+[name-de::Nord Zypern]
+[Area-Total::]
+[Area-Land::]
+Continent :: [[Europe]]
+[VehicleCode::]
+[Capital-Id::]
+[Alcohol-l::]
+[Language-Id::]
+[geo-lon::33.3667]
+[geo-lat::35.1833]
